@@ -1,0 +1,16 @@
+{
+    "name": "jsnlib/expport",
+    "type": "library",
+    "description": "",
+    "keywords": ["export", "csv", "excel"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.2.4",
+        "jsnlib/ao": ">=1.1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jsnlib\\": "src\\"
+        }
+    }
+}
