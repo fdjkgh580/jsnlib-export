@@ -1,5 +1,5 @@
 {
-    "name": "jsnlib/expport",
+    "name": "jsnlib/export",
     "type": "library",
     "description": "",
     "keywords": ["export", "csv", "excel"],
